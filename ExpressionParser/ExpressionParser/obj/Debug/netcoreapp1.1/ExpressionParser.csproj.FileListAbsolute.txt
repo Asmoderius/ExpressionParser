@@ -1,0 +1,9 @@
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\bin\Debug\netcoreapp1.1\ExpressionParser.deps.json
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\bin\Debug\netcoreapp1.1\ExpressionParser.runtimeconfig.json
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\bin\Debug\netcoreapp1.1\ExpressionParser.runtimeconfig.dev.json
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\bin\Debug\netcoreapp1.1\ExpressionParser.dll
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\bin\Debug\netcoreapp1.1\ExpressionParser.pdb
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\obj\Debug\netcoreapp1.1\ExpressionParser.csprojResolveAssemblyReference.cache
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\obj\Debug\netcoreapp1.1\ExpressionParser.AssemblyInfo.cs
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\obj\Debug\netcoreapp1.1\ExpressionParser.dll
+C:\Users\Asmo\Desktop\ExpressionParser\ExpressionParser\obj\Debug\netcoreapp1.1\ExpressionParser.pdb
